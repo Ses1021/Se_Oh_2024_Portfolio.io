@@ -1,0 +1,35 @@
+Menu_item_id,rest_id,item_price,item_name_specific,item_description
+1,1,16.47,Chili Cheese,Chicken Chili & Cheddar Cheese
+2,2,16.00,Old Fashioned Burger,"no temp, roseda beef, no secrets sauce, shredded lettuce, toasted tomato, cheese"
+3,3,35.00,Ribs,"Beef Ribs, foot long, 1lb each"
+4,4,13.00,Jerk Pork,"Jerk pork, rice, beans and cabbage"
+5,6,6.05,The Pepe,"Ham & Provolone lettuce,tomato, & mayo"
+5,7,7.99,Smoked Ham,"Hickory smoked ham, swiss"
+6,6,1.75,chocolate chip cookie,cookie with chocolate chips
+6,7,1.99,sugar cookie,sugar cookie
+7,8,7.90,bowl,"chow mein, broccoli beef"
+7,10,14.50,yunan style rice noodle,"noodle with minced pork, garlic chive, in spicy broth"
+8,9,12.99,"14"" Ledo Pizza",cheese only
+10,9,9.99,Ledo Jumbo Wings,6 wings
+9,10,9.50,Lamb Soup,"Clear potato starch noodles, lamb, wood ear mushroom, & chili oil"
+9,7,4.29,Broccolo Cheddar,Creamy cheese soup with tender pieces of broccoli and carrots
+2,5,12.00,Burger Sliders,"Beef sliders, potato roll, american cheese, lettuce, tomato, pickles"
+4,5,14.00,BBQ Pulled Pork Sliders,Served with coleslaw
+2,20,8.00,Veggie Burger,Served with plant based meat
+15,17,6.00,Milk Bubble Tea,With popping bubbles
+9,18,18.00,HotPot,Served with all you can eat toppings
+4,16,24.00,KBBQ,All you can eat pork
+7,11,16.00,Aka Oni Karaka,"Tonkotsu broth served with thin noodles, prok belly, corn, negi, ajitamago,and cabbage"
+14,12,22.95,16oz T-Bone Steak,"16oz T-Bone steak with two sides of either mashed potatoes, hash brown, corn, apple sauce, and fries."
+1,1,31.90,Lemon Garlic Crab Shrimp,Lemon Garlic Crab & Shrimp Fries
+11,15,12.49,Chicken Naan Wrap,"Naan Bread filled with Chicken Tikka, Rice, Chickpeas, Tikka Masala Sauce, Pico, Corn, Mint Yogurt Chutney, Tamarind and Lettuce."
+2,14,13.50,Black Bean Burger,"Avocado, arugala, red onion, tomato, orange-balsamic dressing on herbed focaccia"
+5,14,14.00,Buffalo Chicken,"Battered Chicken breast, buffalo sauce, romaine, tomato, crumbled bleu on potato roll"
+21,12,11.95,Chicken Tenders,"Chicken breast that is battered and fried, served with fries"
+18,13,13.00,Chicken Burrito,"Rice, black beans, green sauce, lettuce, queso fresco, crema fresca, and chicken"
+13,11,4.50,Classic Musubi,Spam and egg wrapped in between rice and seaweed
+2,21,9.50,Arepa Burger,"Beef burger with lettuce, tomatoes, onions, and pickles on Maize bun"
+5,22,14.00,Blackened Salmon BLT,"Fresh Grilled salmon, bacon, shredded lettuce, tomatoes, and avocado spread on crossiant"
+20,23,16.00,Bulgogi Beef Bowl,Bulgogi beef with your choice on toppings
+19,24,13.00,Chicken Caeser Wrap,Chicken caeser wrapped in flour tortilla
+7,25,12.95,Pad Thai,"Choice of meat stir fried with thin rice noodles, egg, bean curd, bean sprout, scallion, and crushed peanuts with sweet tamarind sauce."

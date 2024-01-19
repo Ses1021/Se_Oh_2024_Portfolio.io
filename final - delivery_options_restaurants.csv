@@ -1,0 +1,33 @@
+delivery_option_id,rest_id,delivery_option_price,delivery_option_est_time
+2,1,1.99,40 min
+1,3,null,null
+2,4,2.50,45 min
+3,4,2.50,45 min
+4,4,2.00,45 min
+4,6,3.99,18 min
+2,7,0.99,20-30 min
+3,7,0.49,20-35 min
+4,7,2.99,22 min
+2,8,2.50,25-35 min
+3,8,2.49,15-30 min
+4,8,2.99,19 min
+1,9,null,null
+1,10,null,null
+1,16,null,null
+1,17,null,null
+1,18,null,null
+1,19,null,null
+1,20,null,null
+2,5,2.50,40 min
+3,5,1.99,40 min
+4,5,1.99,40 min
+1,2,null,null
+5,15,0.99,40-50 min
+4,21,0.99,40-50 min
+4,22,3.99,30-40 min
+1,24,null,null
+2,25,0.99,35 min
+3,25,2.5,25-40 min
+2,23,1.50,25 min
+3,23,1.29,15-35 min
+4,23,1.89,15 min
